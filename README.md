@@ -1,4 +1,6 @@
-# nuxt-test
+# nuxt-udemy-app
+
+Wip: In development...
 
 ## Build Setup
 
